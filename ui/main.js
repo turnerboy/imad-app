@@ -1,2 +1,2 @@
-alert("Welcome :)")
+alert("Welcome :)");
 console.log('Loaded!');
